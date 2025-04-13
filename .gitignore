@@ -51,7 +51,6 @@ datasets/
 *.jpeg
 *.svg
 outputs/
-results/
 figures/
 
 # 🚀 IDE & Editor Files
