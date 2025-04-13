@@ -46,7 +46,6 @@ datasets/
 *.hdf5
 
 # 🚀 Outputs & Plots
-*.png
 *.jpg
 *.jpeg
 *.svg
